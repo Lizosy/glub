@@ -4,3 +4,7 @@ pipline/outputfolder/
 pipline/segments/
 pipline/movie.txt
 pipline/summarize_tokenbatches.log
+pipline/qa_output.txt
+pipline/segment_qa_results.json
+pipline/summaries_output.txt
+pipline/summary_qa_results.json
